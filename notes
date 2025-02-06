@@ -4,3 +4,6 @@ for i in range (10):
         continue
     print(i)
 
+s = "Hello, World!"
+print(s.replace(" World", " Python"))
+
